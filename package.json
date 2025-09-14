@@ -1,0 +1,27 @@
+{
+    "name": "socks5-proxy-server",
+    "version": "1.0.0",
+    "description": "A simple SOCKS5 proxy server implementation with username/password authentication",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "dev": "node server.js",
+      "test": "node test.js"
+    },
+    "keywords": [
+      "socks5",
+      "proxy",
+      "server",
+      "networking",
+      "tcp"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "engines": {
+      "node": ">=14.0.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/yourusername/socks5-proxy-server.git"
+    }
+  }
